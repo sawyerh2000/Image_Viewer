@@ -1,6 +1,6 @@
 # Image Viewer
 
-Simple python script to create a database using sqlite3 that will store images with corresponding names from your local machine. This script also uses Pillow to retrieve an image from the byte stream stored into the database.
+Simple python script to create a database using sqlite3 that will store images with corresponding names from your local machine. This script also uses Pillow to retrieve an image from the BLOB stored into the database.
 
 Script requires Pillow module to run, which can be installed on your local machine using "pip install pillow"
 
